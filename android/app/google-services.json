@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910161527656",
+    "project_id": "login-firebase-a4a53",
+    "storage_bucket": "login-firebase-a4a53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910161527656:android:261de34f1150ca6b0eccdd",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rIrSLJ8jaAo5JdNKN_8W-lMMWTRZU3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
